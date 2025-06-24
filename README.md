@@ -1,1 +1,1 @@
-WORK IN PROGRESS repo, use for researching and testing, there are visible bugs!
+Use for researching and testing,stable version is active
