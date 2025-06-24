@@ -10,7 +10,7 @@ ACCEPT_FOLDER = "accepts"
 MATCH_FOLDER = "in_match"
 
 ACCEPT_THRESHOLD = 0.4
-MATCH_THRESHOLD = 0.55
+MATCH_THRESHOLD = 0.7
 
 CHECK_INTERVAL = 2       # интервал между проверками
 MATCH_SLEEP = 40         # интервал проверки, если ты в матче
